@@ -1,4 +1,5 @@
 # PKUAutoSubmit (modified)
+auto-login
 
 **UPDATE 2020/10/18**
 
